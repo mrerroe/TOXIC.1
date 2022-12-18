@@ -92,12 +92,25 @@ def update():
 #Logo
 def logo():
     os.system("clear")
-    print("\033[94m┌────────────────────────────────────────┐".center(columns+5))
-    print("\033[94m│     \033[92m▀▛▘     ▗    ▛▀▖       ▌        \033[94m   │".center(columns+15))
-    print("\033[94m│     \033[92m ▌▞▀▖▚▗▘▄ ▞▀▖▙▄▘▞▀▖▛▚▀▖▛▀▖▞▀▖▙▀▖\033[94m   │".center(columns+15))
-    print("\033[94m│     \033[92m ▌▌ ▌▗▚ ▐ ▌ ▖▌ ▌▌ ▌▌▐ ▌▌ ▌▛▀ ▌  \033[94m   │".center(columns+15))
-    print("\033[94m│     \033[92m ▘▝▀ ▘ ▘▀▘▝▀ ▀▀ ▝▀ ▘▝ ▘▀▀ ▝▀▘▘  \033[94m   │".center(columns+15))
-    print("\033[94m│                              \033[94m          │".center(columns+9))
+    print("\033[94m.';:cc:;,.
+              .NNXWWWWWNXNX.
+              d0xolkWWxldxKO
+              O0d:cOWWkccdKX
+              OWNXNNNNNXXNWK
+              oKkNNKK0XNNkKd
+              .KxdxcllcxokX.
+               .kNWWdxWWNO.
+                 .xNclNx.
+                . .';;'...
+                :l.d;l:;:'
+                .. . .  . .
+               :..'occ.'d:l
+                .  ...,
+                 . '...
+                .c'l.oo,l
+                 . .    .
+      ,d:'d.o;cc.cc:l.:'o:x:;':c.cl,
+      .. . .. ..... ' . . . .. .. ..".center(columns+5))
     print("\033[94m│ \033[95mAuthor : Abir.                \033[94m│".center(columns+15))
     print("│ \033[95mTool   : Unlimited SMS Bomber          \033[94m│".center(columns+9))
     print("│ \033[95mGitHub : https://github.com/mrerroe \033[94m│".center(columns+9))
